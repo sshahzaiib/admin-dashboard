@@ -47,5 +47,5 @@ const mapStyles = {
     height: "100%"
 };
 export default GoogleApiWrapper({
-    apiKey: GOOGLE_MAPS_API_KEY
+    apiKey: 'GOOGLE_MAPS_API_KEY'
 })(GoogleMap);
