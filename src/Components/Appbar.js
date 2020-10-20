@@ -57,7 +57,7 @@ export default function APPBAR() {
 			<Toolbar className={classes.toolbar}>
 				<div className={classes.title}>
 					<img
-						src="https://demos.creative-tim.com/argon-dashboard/assets/img/brand/white.png"
+						src="https://assets.stickpng.com/thumbs/5847f3f0cef1014c0b5e4886.png"
 						alt="Logo"
 						width="100"
 						style={{ marginRight: "1em" }}

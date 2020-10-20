@@ -133,7 +133,7 @@ function SideDrawer({window, Child}) {
 	const drawer = (
 		<div>
 			<div style={{textAlign: 'center', padding: 15}}>
-				<img src={logo} width="50%" height="40" />
+				<img src='https://assets.stickpng.com/thumbs/5847f3f0cef1014c0b5e4886.png' width="75%" />
 			</div>
 			<Divider />
 			<List>
