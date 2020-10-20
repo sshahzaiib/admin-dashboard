@@ -22,7 +22,6 @@ import ProfileMenu from "./Menu";
 import Options from "./Options";
 import SearchInput from "./SearchInput";
 import BreadCrumbs from "./Breadcrumbs";
-import logo from "../blue.png"
 import DashboardStatCards from "./DashboardStatCards";
 import { RiComputerLine } from "react-icons/ri";
 import {GiConcentrationOrb} from "react-icons/gi"
